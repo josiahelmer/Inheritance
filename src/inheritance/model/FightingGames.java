@@ -1,6 +1,10 @@
 package inheritance.model;
 
-public class FightingGames
+public class FightingGames extends Videogames
 {
-
+public String relatedMeme()
+{
+	return null;
 }
+}
+
